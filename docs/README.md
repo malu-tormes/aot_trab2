@@ -1,31 +1,31 @@
-# 📘 Projeto: Somador Binário de 4 bits no Arduino
+# 📘 Project: 4-bit Binary Adder with Arduino
 
-## 🔎 Descrição Geral
-Este repositório contém a implementação de um **somador binário de 4 bits** utilizando a plataforma Arduino.  
-O sistema recebe dois números binários de 4 bits, realiza a soma com base em portas lógicas (*full adder*)  
-e exibe o resultado juntamente com o bit de carry.
-
----
-
-## 📂 Estrutura da Documentação
-- [Visão Geral](overview.md)  
-- [Guia de Instalação](installation.md)  
-- [Como Usar](usage.md)  
+## 🔎 General Description
+This repository contains the implementation of a **4-bit binary adder** using the Arduino platform.  
+The system takes two 4-bit binary numbers as input, performs the addition based on *full adder* logic,  
+and outputs the result along with the carry bit.
 
 ---
 
-## ⚖️ Licença
-Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+## 📂 Documentation Structure
+- [Overview](overview.md)  
+- [Installation Guide](installation.md)  
+- [Usage Instructions](usage.md)  
 
 ---
 
-## 🎭 Momentos de programação
-> Quando o professor pede pra explicar como o código funcionou e eu só sorri 😅  
-
-> Quando finalmente roda sem erro ✨  
+## ⚖️ License
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 👩‍💻 Autoria
+## 🎭 Programming Moments
+> When the teacher asks me to explain why the code worked and I just smile 😅  
+
+> When the code finally runs without errors ✨  
+
+---
+
+## 👩‍💻 Author
 Maria Luiza Michaelsen Tormes
 
