@@ -1,13 +1,12 @@
-# Installation
+# ⚙️ Installation Guide
 
-## ***__Requirements__***
-- Arduino IDE installed on your computer
-- Arduino board (Uno, Mega, etc.)
-- LEDs, wires, and push buttons
+Follow the steps below to set up and run this project on your Arduino:
 
-## ***__Steps__***
-  1. Open Arduino IDE.
-  2. Open the file `project.ino`.
-  3. Connect the Arduino pins as described in `overview.md`.
-  4. Click "Upload" to send the code to the Arduino board.
-  5. Make sure inputs (buttons or switches) and outputs (LEDs) are correctly connected.
+1. **Download the source code** from this repository.  
+2. Make sure the **Arduino IDE** is installed on your computer.  
+3. Connect your Arduino board via USB cable.  
+4. Open the main project file in Arduino IDE.  
+5. Compile the program by clicking the ✅ verify icon.  
+6. Upload the code to the board using the → upload button.  
+
+Once completed, the Arduino will be ready to process inputs and display the result of the addition.
