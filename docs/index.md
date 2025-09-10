@@ -1,10 +1,16 @@
-# Index
-## ***__Welcome to the Project Documentation!__***
+# 📑 Project Documentation Index
 
-Here, you will find information about installation, usage, and the API.
+## 👋 Welcome!
 
-- [Overview](overview.md)
-- [Installation](installation.md)
-- [Usage](usage.md)
+This section provides all the essential information you need about the project,  
+including setup instructions, how to run it, and the main concepts behind it.  
 
-Explore the project to understand the full logic, installation steps, and usage instructions.
+### 📂 Documentation Contents
+- [Overview](overview.md) – General description of the project.  
+- [Installation](installation.md) – Step-by-step setup guide.  
+- [Usage](usage.md) – Instructions on how to use the system.  
+
+---
+
+Feel free to explore each section to better understand the project’s logic,  
+installation process, and practical usage.
