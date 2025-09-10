@@ -1,28 +1,34 @@
-# README
+# 📘 Projeto: Somador Binário de 4 bits no Arduino
 
-## ***__Overview__***
-This project implements a **4-bit binary adder** using an Arduino board.
-It reads two 4-bit binary numbers, calculates the sum using full adder logic,
-and outputs the result along with the carry bit.
+## 🔎 Descrição Geral
+Este repositório contém a implementação de um **somador binário de 4 bits** utilizando a plataforma Arduino.  
+O sistema recebe dois números binários de 4 bits, realiza a soma com base em portas lógicas (full adder)  
+e exibe o resultado juntamente com o bit de carry.
 
-## ***__Documentation__***
-- [Overview](overview.md)
-- [Installation](installation.md)
-- [Usage](usage.md)
+---
 
-## ***__License__***
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
+## 📂 Estrutura da Documentação
+- [Visão Geral](overview.md)  
+- [Guia de Instalação](installation.md)  
+- [Como Usar](usage.md)  
 
-## ***__goomoof class!__***
+---
 
-> eu na aula de inglês
+## ⚖️ Licença
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-![IMAGEM NAO ENCONTRADA](https://github.com/camilazeck/aot_trab2/blob/camila_zeck/docs/images/kittens.gif "Eu na aula...")
+---
 
-> quando o código executa certinho e não sei o porquê...
+## 🎭 Momentos de programação
+> Quando o professor pede pra explicar como o código funcionou e eu só sorri 😅  
 
-![IMAGEM NAO ENCONTRADA](https://github.com/camilazeck/aot_trab2/blob/camila_zeck/docs/images/greatest_day.gif "QUando roda o código...")
+(https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "Eu fingindo que entendi...")
 
+> Quando finalmente roda sem erro ✨  
 
-## Author
-Camila Zeck
+(https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif "A vitória do código!")
+
+---
+
+## 👩‍💻 Autoria
+Maria Luiza Michaelsen Tormes
